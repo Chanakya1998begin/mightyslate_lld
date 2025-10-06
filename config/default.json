@@ -1,0 +1,20 @@
+{
+  "featureName": "GPT-5-Codex (Preview)",
+  "seedClients": [
+    {
+      "id": "acme-enterprises",
+      "name": "Acme Enterprises",
+      "contact": "ai-platform@acme.example"
+    },
+    {
+      "id": "globex",
+      "name": "Globex Corporation",
+      "contact": "labops@globex.example"
+    },
+    {
+      "id": "initech",
+      "name": "Initech",
+      "contact": "tech@initech.example"
+    }
+  ]
+}
